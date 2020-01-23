@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+h1{
+    margin-top: 50px auto 0 auto;
+    font-family: 'Caveat', cursive;
+    font-size: 5.625rem;
+    color: #71c9ce;
+}
+
+h2{
+    font-family: 'Crimson Text', serif;
+    color: #71c9ce;
+    font-weight: normal;
+
+}
+
+h3{
+    font-family: 'Crimson Text', serif;
+    color: #11999E;
+}
+.profile{
+    
+    width: 45%;
+    margin: 20px auto auto auto;
+}
+a{
+    color: #11999E;
+}
+.design{
+    text-decoration: underline;
+}
+
+.web{
+    border-radius: 50%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.camera{
+    border-radius: 50%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.top-container{
+    background-color : #e3fdfd;
+    position: relative;
+    padding-top: 100px;
+}
+
+.cloud1{
+    position: absolute;
+    top: 60px;
+    right: 430px;
+
+}
+
+.cloud2{
+    position: absolute;
+    bottom: 300px;
+    left: 400px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+hr{
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    margin: 80px auto 50px auto;
+}
+.btn {
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #34d7ed 5%, #019ad2 100%);
+	background-color:#34d7ed;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+    text-shadow:0px -1px 0px #5b6178;
+    margin: 20px 20px 20px 20px;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #34d7ed 100%);
+	background-color:#019ad2;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-container{
+    background-color: #71c9ce ;
+    margin-top: 20px ;
+    padding: 40px 40px 40px 40px;
+    font-family: 'Crimson Text', serif;
+}
+.bang{
+    font-family: 'Bangers', cursive;
+    font-size: 15px;
+    margin-top: 30px;
+    color: white;
+}
+.footer-link{
+    padding-inline: 50px;
+}
